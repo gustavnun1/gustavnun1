@@ -1,4 +1,4 @@
-- 👋 Olá!! Me chamo Gustavo
+- 👋 Olá!! Eu me chamo Gustavo
 
 
 - 👀 Estou interessado em analise e dev de sistemas atualmente
