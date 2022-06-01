@@ -1,7 +1,7 @@
 - 👋 Olá!! Eu me chamo Gustavo
 
 
-- 👀 Estou interessado em analise e dev de sistemas atualmente
+- 👀 Estou interessado em Sistemas de Informação atualmente
 - 🌱 Aprendendo Python no momento
 - 📫 Para me encontrar: gustavo.nunes0422@gmail.com 
 
