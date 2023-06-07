@@ -2,7 +2,6 @@
 
 
 - 👀 Estou interessado em Sistemas de Informação atualmente
-- 🌱 Aprendendo Python no momento
 - 📫 Para me encontrar: gustavo.nunes0422@gmail.com 
 
 </div align center>
