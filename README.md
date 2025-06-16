@@ -1,7 +1,7 @@
 - 👋 Olá!! Eu me chamo Gustavo
 
 
-- 👀 Estou interessado em Sistemas de Informação atualmente
+- 👀 Faço Sistemas de Informação atualmente
 - 📫 Para me encontrar: gustavo.nunes0422@gmail.com 
 
  </div align center>
