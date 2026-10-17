@@ -24,15 +24,6 @@ Currently pursuing an **MBA in Software Engineering at USP/Esalq**.
 
 ---
 
-### 🚀 Highlights
-
-- ⚡ Migrated project dependencies from `ProjectReference` to NuGet `PackageReference`, cutting build time by **~70%**
-- 🧾 Electronic tax-document integrations (MDF-e / SEFAZ): XML validation and rejection handling
-- 🗄️ T-SQL query design and optimization focused on data integrity and performance
-- 🧪 SOLID, Clean Code and unit testing with xUnit
-
----
-
 ### 📌 Featured Project
 
 **[Parada Certa](https://github.com/gustavnun1/TCC_Projeto)** — Multichannel urban parking platform (mobile, web and kiosk) for São Paulo.
