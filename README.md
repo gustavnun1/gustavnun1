@@ -2,7 +2,7 @@
 
 **Backend Software Engineer** · C# / .NET · SQL Server · São Paulo, Brazil 🇧🇷
 
-I build and maintain enterprise ERP software at **eProductivity Software**, working with a global team in English. My day-to-day involves billing workflows, Brazilian electronic tax-document integrations (MDF-e / SEFAZ), production troubleshooting and SQL Server performance.
+I build and maintain enterprise ERP software at **eProductivity Software**, working with a global team in English. My day-to-day involves billing workflows, production troubleshooting and SQL Server performance.
 
 Currently pursuing an **MBA in Software Engineering at USP/Esalq**.
 
