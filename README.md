@@ -2,8 +2,7 @@
 
 **Backend Software Engineer** · C# / .NET · SQL Server · São Paulo, Brazil 🇧🇷
 
-I build and maintain enterprise ERP software at **eProductivity Software**, working with a global team in English. My day-to-day involves billing workflows, production troubleshooting and SQL Server performance.
-
+I build and maintain enterprise ERP software at **eProductivity Software**, working with a global team in English. 
 Currently pursuing an **MBA in Software Engineering at USP/Esalq**.
 
 ---
@@ -28,6 +27,14 @@ Currently pursuing an **MBA in Software Engineering at USP/Esalq**.
 
 **[Parada Certa](https://github.com/gustavnun1/TCC_Projeto)** — Multichannel urban parking platform (mobile, web and kiosk) for São Paulo.
 Java/Spring Boot + Node.js, SQL Server, REST APIs, QR Code entry control, C4 architecture docs and content moderation with Google Cloud Vision + OpenAI.
+
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gustavnun1/gustavnun1/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gustavnun1/gustavnun1/output/github-snake.svg" />
+  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/gustavnun1/gustavnun1/output/github-snake.svg" />
+</picture>
 
 ---
 
